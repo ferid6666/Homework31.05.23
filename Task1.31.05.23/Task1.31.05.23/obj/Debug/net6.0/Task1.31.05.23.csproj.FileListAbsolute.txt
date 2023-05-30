@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.exe
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.deps.json
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.runtimeconfig.json
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.dll
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.pdb
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.dll
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\refint\Task1.31.05.23.dll
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.pdb
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\ref\Task1.31.05.23.dll
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.exe
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.deps.json
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.dll
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\bin\Debug\net6.0\Task1.31.05.23.pdb
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.dll
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\refint\Task1.31.05.23.dll
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.pdb
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\Task1.31.05.23.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\All Code Academy Homeworks\31.05.23\Task1.31.05.23\Task1.31.05.23\obj\Debug\net6.0\ref\Task1.31.05.23.dll
